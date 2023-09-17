@@ -1,8 +1,6 @@
-var nome = prompt("Digite seu nome:");
-
-var idade = parseInt(prompt("Digite sua idade:"));
-
-var estaAcompanhado = prompt("Você está acompanhado? (Digite 's' para sim ou 'n' para não):");
+const nome = prompt("Digite seu nome:");
+const idade = parseInt(prompt("Digite sua idade:"));
+const estaAcompanhado = prompt("Você está acompanhado? (Digite 's' para sim ou 'n' para não):");
 
 if (estaAcompanhado === 's') {
     estaAcompanhado = true;
