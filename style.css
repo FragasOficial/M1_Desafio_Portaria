@@ -1,0 +1,14 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&display=swap');
+
+body{
+    font-family: 'Charmonman', cursive;
+    font-size: 40px;
+    color: white;
+    justify-content: center;
+    margin: 13px auto;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+}
